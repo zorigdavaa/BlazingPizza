@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\Dell\Desktop\Blazing Pizza\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
